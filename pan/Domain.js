@@ -7,7 +7,7 @@ $.ajax({
             window.location.href = "https://192.168.0.104:1912/home-u.html";
         } else {
             alert('你成功激活了Bug，告诉我你是怎么做到的：admin@bufeifan.top');
-			window.location.href = "https://192.168.0.104:1912/home-u.html/";
+			window.location.href = "https://192.168.0.104:1912/home-u.html";
         }
     }
 });
